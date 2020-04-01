@@ -1,4 +1,4 @@
-# freebeezswamphacks
+# FreeBeez
 
 A new Flutter project.
 
